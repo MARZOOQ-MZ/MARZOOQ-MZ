@@ -62,13 +62,13 @@ A responsive cake shop website with modern UI design, product showcase, and enqu
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MARZOOQ-MZ&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MARZOOQ-MZ&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📊 Most Used Languages
+## 📚 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARZOOQ-MZ&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARZOOQ-MZ&layout=compact&theme=tokyonight)
 
 ---
 

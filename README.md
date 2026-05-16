@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=MARZOOQ%20MZ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=MARZOOQ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Marzooq+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;Building+Modern+Web+Applications+%E2%9C%A8;Learning+Advanced+React+%26+Node.js+%F0%9F%93%9A;Future+Software+Engineer+at+Google+%F0%9F%8E%AF)](https://git.io/typing-svg)
 

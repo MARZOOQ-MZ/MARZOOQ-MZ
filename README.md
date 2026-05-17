@@ -80,7 +80,7 @@ A responsive cake shop website with modern UI design, product showcase, and enqu
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MARZOOQ-MZ&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MARZOOQ-MZ&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -92,7 +92,8 @@ A responsive cake shop website with modern UI design, product showcase, and enqu
 
 ## 📚 Most Used Languages
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MARZOOQ-MZ&theme=tokyonight)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MARZOOQ-MZ&theme=tokyonight&cache_seconds=1800)
 
 ---
 

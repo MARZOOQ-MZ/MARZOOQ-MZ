@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=MARZOOQ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Passionate+MERN+Stack+Developer;Learning+&+Growing+Every+Day;Future+Software+Engineer;Creating+Responsive+Web+Experiences;JavaScript+&+React+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Passionate+MERN+Stack+Developer;Learning+%26+Growing+Every+Day;Future+Software+Engineer;Creating+Responsive+Web+Experiences;JavaScript+%26+React+Enthusiast)](https://git.io/typing-svg)
 
 # Hi, I'm MARZOOQ
 

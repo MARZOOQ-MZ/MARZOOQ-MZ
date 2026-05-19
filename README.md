@@ -74,7 +74,7 @@ A responsive cake shop website with modern UI design, product showcase, and enqu
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MARZOOQ-MZ&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MARZOOQ-MZ&theme=tokyo-night&cache_seconds=1800)
 
 ---
 
@@ -86,7 +86,7 @@ A responsive cake shop website with modern UI design, product showcase, and enqu
 
 ## 🔥 GitHub Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MARZOOQ-MZ&theme=tokyonight&hide_border=true&border_radius=12)
+![GitHub Streak](https://streak-stats.demolab.com?user=MARZOOQ-MZ&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800)
 
 ---
 
